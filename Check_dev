@@ -1,2 +1,4 @@
 #!/bin/bash
+clear
+echo "Script conexión de discos en equipo"
 ls /etc/dev > ~/Actual.md
