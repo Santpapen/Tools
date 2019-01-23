@@ -1,3 +1,2 @@
-# ini
-Se trata del primer directorio de proyectos
-Espero a poder subir código interesante.
+# Tools
+Litle progrSmall programs for the work of Sysadminams for daily Sysadmin work
