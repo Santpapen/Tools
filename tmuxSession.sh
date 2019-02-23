@@ -1,5 +1,5 @@
 #!/bin/sh
-# Script inicio tmux
+# Script start tmux session
 
 if(tmux list-session)>/dev/null 2>&1
 then
